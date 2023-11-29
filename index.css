@@ -5,12 +5,12 @@ body{
     left: 0;
     right: 0;
     bottom: 0;
-border-bottom: 8px solid black;
+border-bottom: 25px solid black;
 }
 
 .Encabezado{
     width: 100%;
-    height: 65px;
+    height: 85px;
     background-color: black;
     box-shadow: 0 0px 7px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.19);
 }
@@ -40,7 +40,7 @@ border-bottom: 8px solid black;
 }
 
 .Encabezado_label{
-    font-size: 9px;
+    font-size: 14px;
     color: white;
     text-align: end;
 }
@@ -57,7 +57,7 @@ border-bottom: 8px solid black;
     top: 65px;
     left: 0;
     right: 0;
-    bottom: 8px;
+    bottom: 25px;
 }
 
 /*Parte izquierda*/
